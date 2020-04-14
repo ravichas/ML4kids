@@ -1,0 +1,35 @@
+Need to understand (not do them given two vectors etc.) 
+the following concepts. 
+
+a) Dot product   
+b) Matrix algebra  
+c) Visualize functions  
+    i) High dimensional spaces  
+    ii) Concept of distance  
+d) Calculus (esp. Gradient Descent; chain rule)
+e) Cost function (fancy name for telling us how bad we are doing)  
+   i) quadratic (MSE)
+   ii) Cross-Entropy Cost 
+      $$C = -\frac{1}{n} \sum_{i=1}^{n} [y_{i} ln{\hat{y_{i}}} + ( 1 - y_{i} ) ln(1 - {\hat{y_{i}}}) ] $$
+
+
+1) Weighted Sum
+
+2) \sum_{i}^{n} {w_{i} x_{i}} ;  sum > thresold input is 1 otherwise 0
+
+3) bias
+
+4)  w \dot x +  b   (in dot notation)
+
+5)  
+
+
+Other things to understand Neuron in NN
+
+a) ReLU
+
+
+## Interesting websites
+
+https://quickdraw.withgoogle.com/
+bit.ly/TFplayground
