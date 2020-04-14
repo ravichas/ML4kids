@@ -21,8 +21,6 @@ e) Cost function (fancy name for telling us how bad we are doing)
 
 4)  w \dot x +  b   (in dot notation)
 
-5)  
-
 
 Other things to understand Neuron in NN
 
