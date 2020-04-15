@@ -14,9 +14,5 @@ Please click the Binder logo to start a cloud session of the repository.
 
 ![BinderSession](Img/Capture2.PNG)
 
-* After your session comes up, then click the BasicPython.ipynb to start the tutorial. (see below)
-
-![BinderSession](Capture2.PNG)
-
 This will start a Python Jupyterlab session. You can type commands and execute them in the cloud.
 
