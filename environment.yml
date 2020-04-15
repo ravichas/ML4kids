@@ -18,4 +18,5 @@ dependencies:
   - seaborn
   - scipy
   - zlib
+  - libpython
 
