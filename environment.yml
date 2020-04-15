@@ -8,7 +8,6 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
-  - dll
   - partd
   - dask
   - bokeh
@@ -18,5 +17,4 @@ dependencies:
   - seaborn
   - scipy
   - zlib
-  - libpython
 
